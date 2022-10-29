@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter15.Ex01_ArrayInstance/Chapter15.Ex01_ArrayInstance.iml" filepath="$PROJECT_DIR$/Chapter15.Ex01_ArrayInstance/Chapter15.Ex01_ArrayInstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22.Ex01_MemberInner.java/Chapter22.Ex01_MemberInner.java.iml" filepath="$PROJECT_DIR$/Chapter22.Ex01_MemberInner.java/Chapter22.Ex01_MemberInner.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter22.Ex02_LocalInner.java/Chapter22.Ex02_LocalInner.java.iml" filepath="$PROJECT_DIR$/Chapter22.Ex02_LocalInner.java/Chapter22.Ex02_LocalInner.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chaptor08/Chaptor08.iml" filepath="$PROJECT_DIR$/Chaptor08/Chaptor08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E02_Package_1/E02_Package_1.iml" filepath="$PROJECT_DIR$/E02_Package_1/E02_Package_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex01_Class_3/Ex01_Class_3.iml" filepath="$PROJECT_DIR$/Ex01_Class_3/Ex01_Class_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex01_class_1/Ex01_class_1.iml" filepath="$PROJECT_DIR$/Ex01_class_1/Ex01_class_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex02_class_2/Ex02_class_2.iml" filepath="$PROJECT_DIR$/Ex02_class_2/Ex02_class_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex03_Overloading/Ex03_Overloading.iml" filepath="$PROJECT_DIR$/Ex03_Overloading/Ex03_Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex04_Constructor/Ex04_Constructor.iml" filepath="$PROJECT_DIR$/Ex04_Constructor/Ex04_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex05_MemoryModel/Ex05_MemoryModel.iml" filepath="$PROJECT_DIR$/Ex05_MemoryModel/Ex05_MemoryModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex06_AccessRestriction/Ex06_AccessRestriction.iml" filepath="$PROJECT_DIR$/Ex06_AccessRestriction/Ex06_AccessRestriction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex07_Extends/Ex07_Extends.iml" filepath="$PROJECT_DIR$/Ex07_Extends/Ex07_Extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex08_overriding/Ex08_overriding.iml" filepath="$PROJECT_DIR$/Ex08_overriding/Ex08_overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex09_Static/Ex09_Static.iml" filepath="$PROJECT_DIR$/Ex09_Static/Ex09_Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex10_AbstractClass/Ex10_AbstractClass.iml" filepath="$PROJECT_DIR$/Ex10_AbstractClass/Ex10_AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex11_Interface/Ex11_Interface.iml" filepath="$PROJECT_DIR$/Ex11_Interface/Ex11_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex12_polymorphism/Ex12_polymorphism.iml" filepath="$PROJECT_DIR$/Ex12_polymorphism/Ex12_polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex13_ClassCastException/Ex13_ClassCastException.iml" filepath="$PROJECT_DIR$/Ex13_ClassCastException/Ex13_ClassCastException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex14_Hiding/Ex14_Hiding.iml" filepath="$PROJECT_DIR$/Ex14_Hiding/Ex14_Hiding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex15_InstanceOf/Ex15_InstanceOf.iml" filepath="$PROJECT_DIR$/Ex15_InstanceOf/Ex15_InstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex16_ClassForName1/Ex16_ClassForName1.iml" filepath="$PROJECT_DIR$/Ex16_ClassForName1/Ex16_ClassForName1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex16_ClassForName2/Ex16_ClassForName2.iml" filepath="$PROJECT_DIR$/Ex16_ClassForName2/Ex16_ClassForName2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOPLectrures.iml" filepath="$PROJECT_DIR$/.idea/OOPLectrures.iml" />
+    </modules>
+  </component>
+</project>
